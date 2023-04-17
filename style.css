@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+button {
+  color: white;
+  background-color: cadetblue;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.info-display {
+  color: black;
+  text-align: center;
+  flex-direction: column;
+}
+
+.list-group {
+  list-style: none;
+  border: 1px solid black;
+}
