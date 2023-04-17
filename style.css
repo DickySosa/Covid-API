@@ -19,10 +19,12 @@ button {
 .info-display {
   color: black;
   text-align: center;
-  flex-direction: column;
 }
 
 .list-group {
   list-style: none;
   border: 1px solid black;
+  margin-bottom: 40px;
+  margin-left: 25%;
+  width: 50%;
 }
